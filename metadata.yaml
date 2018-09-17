@@ -1,0 +1,28 @@
+_repo: Rotkoista_52383
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lehtimäki, Konrad
+    alias: Lehtimaki, Konrad
+    birthdate: 1883
+    deathdate: 1937
+    gutenberg_agent_id: '43958'
+    url: http://www.gutenberg.org/2009/agents/43958
+description: ''
+gutenberg_issued: '2016-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52383'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcsh 'Short stories, Finnish'
+- GITenberg
+tableOfContents: Marttyyrit -- Julma äiti -- Oliko se väärin? -- Kotitarkastus --
+  Tuomittu -- Murhaaja -- Taistelija -- Itsemurha.
+title: Rotkoista
+url: http://www.gutenberg.org/ebooks/52383
